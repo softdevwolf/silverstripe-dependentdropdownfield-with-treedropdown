@@ -176,7 +176,7 @@ class DependentDropdownField extends DropdownField
         }
         
         Requirements::javascript(
-            'sheadawson/silverstripe-dependentdropdownfield:client/js/dependentdropdownfield.js'
+            'softdevwolf/silverstripe-dependentdropdownfield-with-treedropdown:client/js/dependentdropdownfield.js'
         );
 
         $this->setAttribute('data-link', $this->Link('load'));

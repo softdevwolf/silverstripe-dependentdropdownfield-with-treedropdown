@@ -1,5 +1,5 @@
 {
-    "name": "kavinda/silverstripe-dependentdropdownfield-with-treedropdown",
+    "name": "softdevwolf/silverstripe-dependentdropdownfield-with-treedropdown",
     "type": "silverstripe-vendormodule",
     "description": "A silverstripe dropdown field that has it's options populated via ajax, based on the value of the field it depends on",
     "license": "BSD-3-Clause",
